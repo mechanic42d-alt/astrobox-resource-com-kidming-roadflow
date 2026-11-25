@@ -1,0 +1,55 @@
+{
+  "item": {
+    "id": "com.kidming.roadflow",
+    "restype": "quick_app",
+    "name": "无限公路",
+    "description": "《无限公路》是一款小米手环上的像素交通模拟快应用。车流会自行跟车、排队、超车和让行。你可以沿着公路漫游，也可以接管一辆车亲自开。\n\n### 玩法\n- **沿路漫游**　上下滑动屏幕，沿着像素公路看车流，经过松林、隧道和铁路道口。\n- **接管驾驶**　轻点一辆车接管。开车时左右轻滑或倾斜手环转向，上下拖动可调整车辆在屏幕里的位置。\n- **调节信号灯**　轻点切换红绿灯，长按开启开放通行，再长按恢复自动循环。\n- **处理道路事件**　轻点损坏的路灯可将它点亮，也可以清理路边的饮料瓶和易拉罐。沿途还会遇到警车、救护车、列车，以及偶尔出现的夜间彩蛋。\n\n**退出提示**　接管车辆期间，系统级退出手势会暂时停用。要退出快应用，请先轻点正在控制的车辆，取消接管，再使用系统退出手势。\n\n### English\nEndless Road is a pixel-art traffic simulator for Xiaomi Smart Band. Vehicles follow traffic, queue, overtake and yield on their own. Explore the road or take over a car and drive it yourself.\n\n- **Explore the road.** Swipe up or down to follow traffic past forests, tunnels and railway crossings.\n- **Drive a car.** Tap a vehicle to take control. Swipe left or right or tilt the band to steer. Drag up or down to adjust the car’s position on the screen.\n- **Control the signals.** Tap the light to switch between red and green. Press and hold to open the road to traffic, then press and hold again to restore the automatic cycle.\n- **Interact with the roadside.** Tap broken streetlights to relight them and pick up bottles and cans. Look out for emergency vehicles, trains and occasional nighttime surprises.\n\n**Exiting the app.** The system exit gesture is temporarily disabled while you’re driving. Tap the vehicle you’re controlling to release it, then use the system exit gesture.",
+    "preview": [
+      "media/01-接管驾驶.webp",
+      "media/02-紧急车辆让行.webp",
+      "media/03-红绿灯控制.webp",
+      "media/04-修路灯与清垃圾.webp",
+      "media/05-铁路道口与透明幽灵.webp"
+    ],
+    "icon": "media/02-圆形图标-480x480.png",
+    "cover": "media/无限公路-贯穿公路头图-暖黄对齐版.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/58015ee2e8cf11f1b76a52540025c377",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/无限公路-1.0.0-作者签名.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/无限公路-1.0.0-作者签名.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/无限公路-1.0.0-作者签名.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/无限公路-1.0.0-作者签名.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
